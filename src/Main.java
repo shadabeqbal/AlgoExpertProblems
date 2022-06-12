@@ -4,6 +4,7 @@ public class Main {
 //        int maxSum = Kadane.kadane(arr);
 //        System.out.println(maxSum);
 
-        ApartmentHunting.findMinDistance();
+//        ApartmentHunting.findMinDistance();
+        CaesarCipher.cipher();
     }
 }
