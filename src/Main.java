@@ -1,7 +1,4 @@
-import arrays.ApartmentHunting;
-import arrays.SortedSquaredArray;
-import arrays.TwoNumberSum;
-import arrays.ValidateSubsequence;
+import arrays.*;
 import famousAlgo.Kadane;
 import strings.CaesarCipher;
 
@@ -15,6 +12,7 @@ public class Main {
 //        CaesarCipher.cipher();
 //        ValidateSubsequence.compute();
 //        TwoNumberSum.compute();
-        SortedSquaredArray.compute();
+//        SortedSquaredArray.compute();
+        TournamentWinner.compute();
     }
 }
