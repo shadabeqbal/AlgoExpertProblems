@@ -1,4 +1,5 @@
 import arrays.ApartmentHunting;
+import arrays.SortedSquaredArray;
 import arrays.TwoNumberSum;
 import arrays.ValidateSubsequence;
 import famousAlgo.Kadane;
@@ -13,6 +14,7 @@ public class Main {
 //        ApartmentHunting.findMinDistance();
 //        CaesarCipher.cipher();
 //        ValidateSubsequence.compute();
-        TwoNumberSum.compute();
+//        TwoNumberSum.compute();
+        SortedSquaredArray.compute();
     }
 }
