@@ -1,3 +1,5 @@
+package strings;
+
 public class CaesarCipher {
     //Only for small letter
     public static String encryptString(String str, int rot){

@@ -1,3 +1,5 @@
+package arrays;
+
 import sun.lwawt.macosx.CInputMethod;
 
 import java.util.Arrays;
