@@ -1,4 +1,5 @@
 import arrays.*;
+import extra.Solution;
 import famousAlgo.Kadane;
 import strings.CaesarCipher;
 
@@ -13,6 +14,8 @@ public class Main {
 //        ValidateSubsequence.compute();
 //        TwoNumberSum.compute();
 //        SortedSquaredArray.compute();
-        TournamentWinner.compute();
+//        TournamentWinner.compute();
+//        Solution.subarraySum();
+        NonConstructibleChange.compute();
     }
 }
