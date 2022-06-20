@@ -16,6 +16,7 @@ public class Main {
 //        SortedSquaredArray.compute();
 //        TournamentWinner.compute();
 //        Solution.subarraySum();
-        NonConstructibleChange.compute();
+//        NonConstructibleChange.compute();
+        ThreeNumberSum.compute();
     }
 }
