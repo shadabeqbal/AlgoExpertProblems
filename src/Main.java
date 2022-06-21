@@ -20,6 +20,7 @@ public class Main {
 //        ThreeNumberSum.compute();
 //        SmallestDifference.compute();
 //        MoveElementToEnd.compute();
-        MonotonicArray.compute();
+//        MonotonicArray.compute();
+        SpiralTraverse.compute();
     }
 }
