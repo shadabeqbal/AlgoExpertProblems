@@ -21,6 +21,7 @@ public class Main {
 //        SmallestDifference.compute();
 //        MoveElementToEnd.compute();
 //        MonotonicArray.compute();
-        SpiralTraverse.compute();
+//        SpiralTraverse.compute();
+        LongestPeak.compute();
     }
 }
