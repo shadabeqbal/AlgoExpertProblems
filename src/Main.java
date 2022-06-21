@@ -17,6 +17,8 @@ public class Main {
 //        TournamentWinner.compute();
 //        Solution.subarraySum();
 //        NonConstructibleChange.compute();
-        ThreeNumberSum.compute();
+//        ThreeNumberSum.compute();
+//        SmallestDifference.compute();
+        MoveElementToEnd.compute();
     }
 }
