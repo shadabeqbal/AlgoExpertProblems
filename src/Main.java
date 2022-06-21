@@ -26,5 +26,6 @@ public class Main {
 //        SpiralTraverse.compute();
 //        LongestPeak.compute();
 //        ArrayOfProducts.compute();
+        FirstDuplicateValue.compute();
     }
 }
