@@ -19,6 +19,7 @@ public class Main {
 //        NonConstructibleChange.compute();
 //        ThreeNumberSum.compute();
 //        SmallestDifference.compute();
-        MoveElementToEnd.compute();
+//        MoveElementToEnd.compute();
+        MonotonicArray.compute();
     }
 }
