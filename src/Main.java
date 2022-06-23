@@ -27,6 +27,7 @@ public class Main {
 //        LongestPeak.compute();
 //        ArrayOfProducts.compute();
 //        FirstDuplicateValue.compute();
-        MergeOverlappingIntervals.compute();
+//        MergeOverlappingIntervals.compute();
+        FourNumberSum.compute();
     }
 }
