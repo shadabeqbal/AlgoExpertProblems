@@ -28,6 +28,7 @@ public class Main {
 //        ArrayOfProducts.compute();
 //        FirstDuplicateValue.compute();
 //        MergeOverlappingIntervals.compute();
-        FourNumberSum.compute();
+//        FourNumberSum.compute();
+        SubarraySort.compute();
     }
 }
