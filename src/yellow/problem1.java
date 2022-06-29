@@ -1,4 +1,4 @@
-package yellow.ai;
+package yellow;
 
 import java.util.List;
 

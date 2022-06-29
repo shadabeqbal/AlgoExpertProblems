@@ -1,4 +1,4 @@
-package goldmanSachs;
+package gs;
 
 import java.io.*;
 
