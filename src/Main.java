@@ -3,6 +3,9 @@ import bst.BSTConstruction;
 import extra.Problem1;
 import extra.Solution;
 import famousAlgo.Kadane;
+import stacks.BalancedBrackets;
+import stacks.MinMaxStackConstruction;
+import stacks.SunsetViews;
 import strings.*;
 
 import javax.xml.soap.Node;
@@ -42,5 +45,11 @@ public class Main {
 //        RunLengthEncoding.RunLengthEncoding();
 //        GenerateDocument.compute();
 //        FirstNonRepeatingChar.compute();
+//        LongestPalindromicSubstring.compute();
+//        GroupAnagrams.compute();
+//        ReverseWordsInString.compute();
+//        MinMaxStackConstruction.compute();
+//        BalancedBrackets.compute();
+        SunsetViews.compute();
     }
 }
